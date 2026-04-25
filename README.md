@@ -6,7 +6,7 @@ Este repositório contém a implementação de um Agente de Triagem Médica inte
 O projeto demonstra como utilizar modelos de linguagem (LLMs) integrados ao framework LangChain para criar fluxos de triagem automatizados, focados em analisar sintomas e fornecer orientações preliminares de forma segura e estruturada.
 
  Sobre o Projeto
-O objetivo deste agente é atuar como um assistente de triagem que coleta informações de pacientes, analisa os sintomas descritos e fornece uma classificação inicial de prioridade, seguindo diretrizes de Engenharia de IA.
+O objetivo deste agente é atuar como um assistente de triagem que coleta informações de pacientes, analisa os sintomas descritos e fornece uma classificação inicial de prioridade, seguindo diretrizes de Engenharia de IA. E o outro agente de IA é para coleta de buscas de informações na internet.
 
 Principais conceitos aplicados:
 Agentes Autônomos: Estrutura de observação, raciocínio e ação.
