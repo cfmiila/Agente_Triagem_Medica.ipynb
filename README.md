@@ -36,5 +36,3 @@ Este material é parte da Imersão Tech - 25/04.
 Instrutoras: Yasmin Feitosa e Patrícia Bongiovanni Catandi.
 https://colab.research.google.com/drive/1UkxCV9HpubYz7BaEJOEZNHhn0I-frgJD?usp=sharing#scrollTo=r477zvf4Lf9j
 
-👤 Autor
-Desenvolvido por Camila Fernandes dos Santos.
